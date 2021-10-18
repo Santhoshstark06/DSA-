@@ -24,7 +24,6 @@ def partition(arr, low, high):
 
 # Function to do Quick sort
 
-
 def quickSort(arr, low, high):
 	if len(arr) == 1:
 		return arr
