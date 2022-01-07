@@ -5,6 +5,8 @@
 def bubble_sort(list1):  
     for i in range(0,len(list1)-1):  
         for j in range(len(list1)-1):  
+   #we have defined two for loop - first for loop iterates the complete list and 
+#the second for loop iterates the list and the compare the two elements in every outer loop iterations.
             if(list1[j]>list1[j+1]):  
                 temp = list1[j]  
                 list1[j] = list1[j+1]  
