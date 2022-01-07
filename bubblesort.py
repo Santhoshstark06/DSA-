@@ -1,5 +1,6 @@
 
-
+#The bubble sort uses a straightforward logic that works by repeating swapping the adjacent elements if they are not in the right order. 
+#It compares one pair at a time and swaps if the first element is greater than the second element; otherwise, move further to the next pair of elements for comparison.
 
 def bubble_sort(list1):  
     for i in range(0,len(list1)-1):  
