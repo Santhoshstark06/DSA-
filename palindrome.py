@@ -1,5 +1,4 @@
-#palidrome in python
-
+#Palidrome in python
 
 var=input(("Enter a letter:"))  
 
