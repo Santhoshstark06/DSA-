@@ -1,5 +1,4 @@
 #class
-
 class Parrot:
 
     # class attribute
