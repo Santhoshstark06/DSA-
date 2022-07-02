@@ -23,5 +23,3 @@ print("{} is {} years old".format( woo.name, woo.age))
 
 
 
-
-
