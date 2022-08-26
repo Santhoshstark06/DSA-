@@ -48,5 +48,3 @@ def fibonacci(n):
 # Driver Program
 print(fibonacci(9))
 
-# This code is contributed by Saket Modi
-# Then corrected and improved by Himanshu Kanojiya
