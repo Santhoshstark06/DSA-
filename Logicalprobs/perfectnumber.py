@@ -12,3 +12,7 @@ if (sum1 == n):
     print("The number is a Perfect number!")
 else:
     print("The number is not a Perfect number!")
+    
+   
+
+/*Auxiliary Space is the extra space or temporary space used by an algorithm.Space complexity includes both Auxiliary space and space used by input. */
