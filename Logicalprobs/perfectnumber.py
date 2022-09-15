@@ -1,5 +1,5 @@
-/*A perfect number is a number which is equal to the sum of its proper divisors, i.e. all its divisors including 1 but not the number itself. 
-For example, 6 = 3 + 2 + 1*/
+//A perfect number is a number which is equal to the sum of its proper divisors, i.e. all its divisors including 1 but not the number itself. 
+For example, 6 = 3 + 2 + 1
 
 
 
