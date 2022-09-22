@@ -9,5 +9,4 @@ else:
       
       print("The letter is not a palindrome")  
 
-      
       #Palindrome words : madam,refer
