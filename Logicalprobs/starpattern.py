@@ -16,7 +16,5 @@ def pypart(n):
 		
 			# printing stars
 			print("* ",end="")
-	
-		# ending line after each row
-		print("\r")
+
 
