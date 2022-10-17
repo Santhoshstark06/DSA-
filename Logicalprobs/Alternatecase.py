@@ -20,3 +20,4 @@ for i in range(len(str)):
         continue
     j=j+1
 print("After converting Your String is :", newStr)
+
