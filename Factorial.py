@@ -12,7 +12,6 @@ print("The factorial of",num,"is",factorial(num))
 
 
 
-
 #Using build-in function
 import math  
 def fact(n):  
