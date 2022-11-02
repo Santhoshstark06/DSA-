@@ -47,14 +47,4 @@ def fibonacci(n):
 # Driver Program
 print(fibonacci(9))
 
-def fib(n)
-a=0
-b=1
-if n==1
-print(a)
-else:
-	print(a)
-	print(b0
-for i in range(2,n)
-	      c=a+b
 
